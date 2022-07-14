@@ -5,7 +5,8 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build && next export && touch ./out/.nojekyll && echo 'https://ikhanbehram.github.io/Behram/' > ./out/CNAME",
-    "start": "next start"
+    "start": "next start",
+    "deploy": "gh-pages -d out -t true"
   },
   "dependencies": {
     "@notionhq/client": "^0.2.2",
