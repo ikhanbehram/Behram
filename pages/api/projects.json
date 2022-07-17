@@ -19,7 +19,7 @@
     "id": 4,
     "name": "B-Dashboard",
     "image": "https://imgur.com/mKkz0iz.png",
-    "description": "A themeable and developer-centric po",
+    "description": "Dashboard App For Managing Portfolio's",
     "tags": ["react-native", "expo"]
   }
 ]
