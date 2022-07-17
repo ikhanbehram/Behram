@@ -20,7 +20,7 @@
     "name": "B-Dashboard",
     "image": "https://imgur.com/mKkz0iz.png",
     "description": "Dashboard App For Managing Portfolio's",
-    "tags": ["react-native", "expo"],
+    "tags": ["react native", "expo"],
     "source_code": "https://github.com/ikhanbehram/B-dashboard"
   }
 ]
