@@ -3,7 +3,7 @@
     "id": 1,
     "name": "Vacuole",
     "image": "https://imgur.com/kbGs6zH.png",
-    "description": "A platform for web developers to showcase their projects",
+    "description": "An organized and systematic library of micro-organisms",
     "tags": ["angular", "node", "mongodb", "tailwind", "react-query"],
     "source_code": "https://github.com/ikhanbehram/Vacuole"
   },
