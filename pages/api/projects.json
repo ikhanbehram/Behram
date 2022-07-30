@@ -12,7 +12,7 @@
     "name": "Mern Todo",
     "image": "https://imgur.com/tAZotn3.png",
     "description": "Todo Application I built During My Learning Phase in React/Node(Express) And JWT Authentication",
-    "tags": ["react", "node", "mysql", "redux", "redux-thunk" ],
+    "tags": ["react", "node", "mysql", "redux", "redux-thunk", "sequelize" ],
     "source_code": "https://github.com/ikhanbehram/mern-todo"
   },
   {
